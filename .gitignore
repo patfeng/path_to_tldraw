@@ -108,3 +108,11 @@ license-report.html
 
 .bundle-meta.json
 .zed
+
+*.xml
+*.svg
+*.png
+*.inkml
+*.h5
+*.ndjson
+**/mathwriting-2024/**
